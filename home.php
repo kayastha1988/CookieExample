@@ -23,7 +23,15 @@ and open the template in the editor.
         }
         ?>
         <a href="logout.php">logout</a>
+        <a href="logout.php">logout</a>
         
-        <h3>change for the cookie for git</h3>
+        <a href="logout.php">logout</a>
+        
+        <a href="logout.php">logout</a>
+        
+        <a href="logout.php">logout</a>
+        
+        
+        
     </body>
 </html>
