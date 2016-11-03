@@ -1,9 +1,3 @@
-<?php
-session_start();
-if($_SESSION['user']==""){
-    header('location:index.php');
-}
-?>
 <!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
@@ -16,12 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        welcome to home page, you logged with : 
-        <?php
-        if(isset($_COOKIE['username'])){
-            echo $_COOKIE['username'];
-        }
-        ?>
-        <a href="logout.php">logout</a>
+        <p>this is the demo file</p>
     </body>
 </html>
