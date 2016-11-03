@@ -11,5 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <p>this is the demo file</p>
+        <p>this is the demo file</p>
+        <p>this is the demo file</p>
+        <p>this is the demo file</p>
+        <p>this is the demo file</p>
+        <p>this is the demo file</p>
     </body>
 </html>
